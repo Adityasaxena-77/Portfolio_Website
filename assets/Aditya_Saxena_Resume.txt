@@ -1,0 +1,55 @@
+ADITYA SAXENA
+Govind Nagar, Mathura | +91 8077694369 | adityasaxena8791@gmail.com
+LinkedIn: https://www.linkedin.com/in/aditya-saxena-999173342/
+GitHub: https://github.com/Adityasaxena-77
+LeetCode: https://leetcode.com/u/adityasaxena99/
+
+EDUCATION
+Bachelor of Technology in Computer Science and Engineering (Expected June 2027)
+GLA University, Mathura | CGPA/Percentage: 69.6%
+Relevant Coursework: Computer Networks, DBMS, Operating Systems, Data Structures & Algorithms, Object-Oriented Programming (OOP)
+
+Intermediate (May 2023)
+Mrdbd School, Mathura | CGPA/Percentage: 72%
+
+High School (May 2021)
+Mrdbd School, Mathura | CGPA/Percentage: 86%
+
+INTERNSHIP / TRAINING EXPERIENCE
+Brainwave Matrix Solutions (May 2025 – June 2025)
+Software Developer Intern
+• Designed and optimized backend logic using C++ in a production environment to enhance efficiency.
+• Applied data structures, modular software design, and debugging techniques for performance improvements.
+• Collaborated with team members to build scalable, clean, and efficient software components.
+
+Job Oriented Value-Added Course, GLA University, Mathura (June 2025 - July 2025)
+Trainee
+• Pursuing comprehensive Full Stack Developer Certification from W3grads.
+• Gained hands-on experience in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB fundamentals.
+• Engaged in hands-on projects and real-world backend development practices.
+
+PROJECTS
+Full Stack E-Commerce Platform (2026)
+Technologies used: MongoDB, Express.js, React.js, Node.js (MERN)
+• Developed a full-stack e-commerce platform using the MERN stack with a responsive user interface.
+• Implemented secure JWT-based authentication, product management, shopping cart, and order processing.
+• Designed and integrated RESTful APIs for frontend-backend communication.
+
+Book Sharing Software - Backend API (2025)
+Technologies used: Node.js, Express.js, MongoDB, Postman, HTML, CSS
+• Built RESTful APIs for secure user authentication and peer-to-peer book management operations.
+• Integrated MongoDB for database operations and tested API endpoints utilizing Postman.
+• Implemented CRUD operations, input validation, and middleware error handling.
+
+SKILLS
+• Languages: Java, JavaScript, C++, C
+• Back-End & Web: Spring Boot, Node.js, Express.js, React.js, HTML, CSS, RESTful APIs
+• Database Management: MongoDB, MongoDB Compass
+• Developer Tools: Git, GitHub, Postman
+• Core Fundamentals: Data Structures & Algorithms, OOPs, DBMS, OS, Computer Networks
+• Professional Skills: Effective Communication, Team Work & Collaboration, Logical Reasoning & Problem Solving
+
+CERTIFICATIONS & ACHIEVEMENTS
+• Udemy Certification: Master Spring Boot 3 & Spring Framework 6 with Java (in28Minutes, Feb 2026, 42 Total Hours)
+• Successfully cleared academic evaluations for advanced modules covering Java, Spring Boot.
+• Consistently verified complex algorithmic data patterns, including dynamic programming and shortest path matrix evaluations.
