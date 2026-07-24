@@ -5,15 +5,15 @@ GitHub: https://github.com/Adityasaxena-77
 LeetCode: https://leetcode.com/u/adityasaxena99/
 
 EDUCATION
-Bachelor of Technology in Computer Science and Engineering (Expected June 2027)
-GLA University, Mathura | CGPA/Percentage: 69.6%
-Relevant Coursework: Computer Networks, DBMS, Operating Systems, Data Structures & Algorithms, Object-Oriented Programming (OOP)
+Bachelor of Technology (B.Tech) in Computer Science & Engineering
+GLA University, Mathura | 2023 – 2027
+Relevant Coursework: Computer Networks, Database Management Systems (DBMS), Operating Systems, Data Structures & Algorithms, Object-Oriented Programming (OOP)
 
-Intermediate (May 2023)
-Mrdbd School, Mathura | CGPA/Percentage: 72%
+Senior Secondary (Class XII)
+Mrdbd School, Mathura | Completed in 2023
 
-High School (May 2021)
-Mrdbd School, Mathura | CGPA/Percentage: 86%
+Secondary (Class X)
+Mrdbd School, Mathura | Completed in 2021
 
 INTERNSHIP / TRAINING EXPERIENCE
 Brainwave Matrix Solutions (May 2025 – June 2025)
